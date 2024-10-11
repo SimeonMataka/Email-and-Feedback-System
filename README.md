@@ -27,6 +27,6 @@ This system is designed to manage and analyze customer feedback through email co
   4. Feedback Analysis: Sentiment analysis using Textblob
 
 **#Workflow**
-    1. Use email_sender.py to send the email to desired receipients
-    2. Capture the feedback using the backend.py running flask. Usually on localhost:5500
-    3. Run the sentiment analysis to capture the sentiments of the responses from the receipients.
+    1. Use email_sender.py to send the email to desired receipients|
+    2. Capture the feedback using the backend.py running flask. Usually on localhost:5500|
+    3. Run the sentiment analysis to capture the sentiments of the responses from the receipients.|
